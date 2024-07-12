@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../JavaOops/JavaOops.iml" filepath="$PROJECT_DIR$/../JavaOops/JavaOops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Practice-DS-1/Practice-DS-1.iml" filepath="$PROJECT_DIR$/../Practice-DS-1/Practice-DS-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PracticeCollectionFramework/PracticeCollectionFramework.iml" filepath="$PROJECT_DIR$/../PracticeCollectionFramework/PracticeCollectionFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PracticeDSAHashing/PracticeDSAHashing.iml" filepath="$PROJECT_DIR$/../PracticeDSAHashing/PracticeDSAHashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PracticeJava8Coding/PracticeJava8Coding.iml" filepath="$PROJECT_DIR$/../PracticeJava8Coding/PracticeJava8Coding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeLinkedList.iml" filepath="$PROJECT_DIR$/PracticeLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PracticeStack/PracticeStack.iml" filepath="$PROJECT_DIR$/../PracticeStack/PracticeStack.iml" />
+    </modules>
+  </component>
+</project>
