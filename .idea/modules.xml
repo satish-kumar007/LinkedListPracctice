@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PracticeDesignPattern/Java8Basics_1.iml" filepath="$PROJECT_DIR$/../PracticeDesignPattern/Java8Basics_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/../JavaOops/JavaOops.iml" filepath="$PROJECT_DIR$/../JavaOops/JavaOops.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Practice-DS-1/Practice-DS-1.iml" filepath="$PROJECT_DIR$/../Practice-DS-1/Practice-DS-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/../PracticeCollectionFramework/PracticeCollectionFramework.iml" filepath="$PROJECT_DIR$/../PracticeCollectionFramework/PracticeCollectionFramework.iml" />
       <module fileurl="file://$PROJECT_DIR$/../PracticeDSAHashing/PracticeDSAHashing.iml" filepath="$PROJECT_DIR$/../PracticeDSAHashing/PracticeDSAHashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PracticeHeap/PracticeHeap.iml" filepath="$PROJECT_DIR$/../PracticeHeap/PracticeHeap.iml" />
       <module fileurl="file://$PROJECT_DIR$/../PracticeJava8Coding/PracticeJava8Coding.iml" filepath="$PROJECT_DIR$/../PracticeJava8Coding/PracticeJava8Coding.iml" />
       <module fileurl="file://$PROJECT_DIR$/PracticeLinkedList.iml" filepath="$PROJECT_DIR$/PracticeLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PracticeQueue/PracticeQueue.iml" filepath="$PROJECT_DIR$/../PracticeQueue/PracticeQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/../PracticeStack/PracticeStack.iml" filepath="$PROJECT_DIR$/../PracticeStack/PracticeStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PracticeTrees/PracticeTrees.iml" filepath="$PROJECT_DIR$/../PracticeTrees/PracticeTrees.iml" />
     </modules>
   </component>
 </project>
